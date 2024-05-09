@@ -8,6 +8,7 @@ const Installation = () => {
         href="https://github.com/Souvik9205/HandGesture-oparater
         "
         classname="cursor-pointer"
+        target="blank"
       >
         <div className=" text-white my-16 bg-[#228b33] py-2 px-5 rounded-md">GitHub</div>
       </a>
