@@ -11,7 +11,7 @@ const HeroSection = () => {
         <h1 className=" leading-tight inline-block font-bold text-[58px] text-transparent bg-clip-text bg-gradient-to-r from-[#f349c0] via-[#565dde] to-[#15a39c]">Python Project Hand Gesture</h1>
         <br />
         <h1 className="-mt-6 leading-tight inline-block font-bold text-[58px] text-white"> Detection Module</h1>
-        <p className=" text-white/50 mt-4">Advance autometion project for Hack-o-Nit hackathon which is made using Python</p>
+        <p className=" text-white/50 mt-4">Advance automation project for Hack-o-Nit hackathon which is made using Python</p>
       </div>
       <div className="mt-5">
         <button className=" bg-[#9b79f7] text-white px-4 text-sm mt-4 pb-[7px] pt-[8px] rounded-md">{"Start the journey "}</button>
